@@ -5,8 +5,6 @@ The User Management System is a Python-based backend application designed to man
 It allows adding, viewing, and deleting users using a SQLite database.  
 This project demonstrates core backend development concepts such as CRUD operations, database connectivity, and clean Python code structure.
 
-This project is suitable for beginners aiming for entry-level Software Development Engineer (SDE) roles.
-
 ---
 
 ## Features
