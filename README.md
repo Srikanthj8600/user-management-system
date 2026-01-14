@@ -66,6 +66,10 @@ git clone https://github.com/Srikanthj8600/user-management-system.git
 
 ---
 
+## Screenshots
+
+https://github.com/Srikanthj8600/user-management-system/blob/cac4942af8148a341de8e552e842b1448ac9c12e/Screenshot%202026-01-13%20at%2011.49.01%20PM.png
+
 ## Author
 Developed by **Srikanth**  
 CSE Fresher | Python Backend Developer
